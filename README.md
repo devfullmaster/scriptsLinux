@@ -1,0 +1,1 @@
+Script de criação de diretorios e usuarios com as suas devidas permissões linux
